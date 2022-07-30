@@ -1,1 +1,5 @@
-"# get-phone-apk-" 
+这是一个可以把手机前台正在使用的应用发动到电脑的python脚本
+
+需要ADB
+
+需要python环境
