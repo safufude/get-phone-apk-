@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import re
 import winreg
@@ -136,4 +135,3 @@ package_path = get_package_path_in_phone().strip()
 pull_package_to_Computer(package_path, full_output_path)
 
 analyze_package_name(full_output_path)
->>>>>>> a5646ff060f0ca7c4c44e97698a914458000a74d
